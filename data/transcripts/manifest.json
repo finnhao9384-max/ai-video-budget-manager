@@ -1,0 +1,23 @@
+[
+  {
+    "file": "aura.md",
+    "source_filename": "AURA Screenplay Script Test.md",
+    "source_sha256": "bb07227e6753eaabdf54d7b4f5d01b71cc530870f97d49a350d982685682f8e8",
+    "normalization": "Unicode line separators converted to newlines; fullwidth colons converted to ASCII. No substantive output corrections.",
+    "provenance": "Creator-supplied TapNow transcript; exact execution timestamp and host model not supplied."
+  },
+  {
+    "file": "commercial.md",
+    "source_filename": "Commercial Screenplay Test.md",
+    "source_sha256": "b7a6fc119a63a2a7b9de6254cd7a5695902ab53374bb563531878ae9898487b4",
+    "normalization": "Unicode line separators converted to newlines; fullwidth colons converted to ASCII. No substantive output corrections.",
+    "provenance": "Creator-supplied TapNow transcript; exact execution timestamp and host model not supplied."
+  },
+  {
+    "file": "right-frequency.md",
+    "source_filename": "Screenplay The Right Frequency Test.md",
+    "source_sha256": "6635843777505310c1b09cd4d21e39b84352c943837b535d86a26230cffa70a5",
+    "normalization": "Unicode line separators converted to newlines; fullwidth colons converted to ASCII. No substantive output corrections.",
+    "provenance": "Creator-supplied TapNow transcript; exact execution timestamp and host model not supplied."
+  }
+]

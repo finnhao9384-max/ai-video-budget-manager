@@ -1,0 +1,181 @@
+{
+  "scope": "Selected initial tier totals reconstructed from the three supplied transcripts. Not all transcript claims are scored.",
+  "cases": [
+    {
+      "id": "aura-low",
+      "transcript": "aura.md",
+      "image_terms": [
+        [
+          22,
+          6,
+          3
+        ]
+      ],
+      "video_terms": [
+        [
+          88,
+          12,
+          3
+        ]
+      ],
+      "reported_total": 3564
+    },
+    {
+      "id": "aura-medium",
+      "transcript": "aura.md",
+      "image_terms": [
+        [
+          22,
+          15,
+          5
+        ]
+      ],
+      "video_terms": [
+        [
+          88,
+          24,
+          5
+        ]
+      ],
+      "reported_total": 12210
+    },
+    {
+      "id": "aura-high",
+      "transcript": "aura.md",
+      "image_terms": [
+        [
+          22,
+          26,
+          7
+        ]
+      ],
+      "video_terms": [
+        [
+          88,
+          60,
+          6
+        ]
+      ],
+      "reported_total": 35684
+    },
+    {
+      "id": "commercial-low",
+      "transcript": "commercial.md",
+      "image_terms": [
+        [
+          13,
+          9,
+          3
+        ]
+      ],
+      "video_terms": [
+        [
+          36,
+          12,
+          3
+        ]
+      ],
+      "reported_total": 1647
+    },
+    {
+      "id": "commercial-medium",
+      "transcript": "commercial.md",
+      "image_terms": [
+        [
+          13,
+          15,
+          5
+        ]
+      ],
+      "video_terms": [
+        [
+          36,
+          24,
+          5
+        ]
+      ],
+      "reported_total": 5295
+    },
+    {
+      "id": "commercial-high",
+      "transcript": "commercial.md",
+      "image_terms": [
+        [
+          13,
+          26,
+          7
+        ]
+      ],
+      "video_terms": [
+        [
+          36,
+          40,
+          6
+        ]
+      ],
+      "reported_total": 11006
+    },
+    {
+      "id": "frequency-low",
+      "transcript": "right-frequency.md",
+      "image_terms": [
+        [
+          33,
+          9,
+          3
+        ]
+      ],
+      "video_terms": [
+        [
+          200,
+          12,
+          3
+        ]
+      ],
+      "reported_total": 8091
+    },
+    {
+      "id": "frequency-medium",
+      "transcript": "right-frequency.md",
+      "image_terms": [
+        [
+          33,
+          15,
+          5
+        ]
+      ],
+      "video_terms": [
+        [
+          200,
+          29,
+          5
+        ]
+      ],
+      "reported_total": 31475
+    },
+    {
+      "id": "frequency-high",
+      "transcript": "right-frequency.md",
+      "image_terms": [
+        [
+          3,
+          25,
+          7
+        ],
+        [
+          30,
+          40,
+          7
+        ]
+      ],
+      "video_terms": [
+        [
+          200,
+          100,
+          6
+        ]
+      ],
+      "reported_total": 128925
+    }
+  ]
+}

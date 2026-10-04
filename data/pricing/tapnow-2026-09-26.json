@@ -1,0 +1,933 @@
+{
+  "version": "2026-09-26",
+  "unit": "TapNow credits",
+  "source": "Creator-collected generation-page estimates; not independently verified settlement data.",
+  "images": [
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 3
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 5
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 13
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 22
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 48
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 3
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 5
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 13
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 22
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 48
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 4
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 8
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 25
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 44
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 97
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 4
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 8
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 25
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 44
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 97
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 6
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 11
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 41
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 72
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 160
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 6
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 11
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 41
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 72
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 160
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 18
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 20
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 28
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 37
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 63
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 18
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 20
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 28
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 37
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 63
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 19
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 23
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 40
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 59
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 112
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 19
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 23
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 40
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 59
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 112
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 21
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 26
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 56
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 87
+    },
+    {
+      "model": "GPT Image 2.5 Sunburst",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 175
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Low",
+      "web_search": null,
+      "credits": 21
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Medium",
+      "web_search": null,
+      "credits": 26
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "High",
+      "web_search": null,
+      "credits": 56
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Ultra High",
+      "web_search": null,
+      "credits": 87
+    },
+    {
+      "model": "GPT Image 2.5 Flare",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": "Maximum",
+      "web_search": null,
+      "credits": 175
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": false,
+      "credits": 15
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": true,
+      "credits": 18
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": false,
+      "credits": 15
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": true,
+      "credits": 18
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": false,
+      "credits": 15
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": true,
+      "credits": 18
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": false,
+      "credits": 15
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": true,
+      "credits": 18
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": false,
+      "credits": 26
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": true,
+      "credits": 30
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": false,
+      "credits": 26
+    },
+    {
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": true,
+      "credits": 30
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "512P",
+      "detail": null,
+      "web_search": false,
+      "credits": 6
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "512P",
+      "detail": null,
+      "web_search": true,
+      "credits": 8
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "512P",
+      "detail": null,
+      "web_search": false,
+      "credits": 6
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "512P",
+      "detail": null,
+      "web_search": true,
+      "credits": 8
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": false,
+      "credits": 9
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": true,
+      "credits": 11
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": false,
+      "credits": 9
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": true,
+      "credits": 11
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": false,
+      "credits": 14
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": true,
+      "credits": 16
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": false,
+      "credits": 14
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": true,
+      "credits": 16
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": false,
+      "credits": 20
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Text-to-image",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": true,
+      "credits": 22
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": false,
+      "credits": 20
+    },
+    {
+      "model": "Banana 2",
+      "mode": "Reference",
+      "resolution": "4K",
+      "detail": null,
+      "web_search": true,
+      "credits": 22
+    },
+    {
+      "model": "Seedream 5.0 Pro",
+      "mode": "Text-to-image",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": null,
+      "credits": 3,
+      "promotion_ends": "2026-10-07 23:59",
+      "promotion_timezone": null
+    },
+    {
+      "model": "Seedream 5.0 Pro",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": null,
+      "credits": 6,
+      "promotion_ends": "2026-10-07 23:59",
+      "promotion_timezone": null
+    },
+    {
+      "model": "Seedream 5.0 Pro",
+      "mode": "Reference",
+      "resolution": "1K",
+      "detail": null,
+      "web_search": null,
+      "credits": 3,
+      "promotion_ends": "2026-10-07 23:59",
+      "promotion_timezone": null
+    },
+    {
+      "model": "Seedream 5.0 Pro",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": null,
+      "credits": 6,
+      "promotion_ends": "2026-10-07 23:59",
+      "promotion_timezone": null
+    }
+  ],
+  "videos": [
+    {
+      "model": "Seedance 2.5",
+      "mode": "First/last frame",
+      "resolution": "480P",
+      "credits_per_second": 20,
+      "min_seconds": 4,
+      "max_seconds": 30,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.5",
+      "mode": "Omni Reference",
+      "resolution": "480P",
+      "credits_per_second": 20,
+      "min_seconds": 4,
+      "max_seconds": 30,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.5",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "credits_per_second": 40,
+      "min_seconds": 4,
+      "max_seconds": 30,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.5",
+      "mode": "Omni Reference",
+      "resolution": "720P",
+      "credits_per_second": 40,
+      "min_seconds": 4,
+      "max_seconds": 30,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.5",
+      "mode": "First/last frame",
+      "resolution": "1080P",
+      "credits_per_second": 100,
+      "min_seconds": 4,
+      "max_seconds": 30,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.5",
+      "mode": "Omni Reference",
+      "resolution": "1080P",
+      "credits_per_second": 100,
+      "min_seconds": 4,
+      "max_seconds": 30,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "480P",
+      "credits_per_second": 12,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "Omni Reference",
+      "resolution": "480P",
+      "credits_per_second": 12,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "credits_per_second": 24,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "Omni Reference",
+      "resolution": "720P",
+      "credits_per_second": 24,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "1080P",
+      "credits_per_second": 60,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "Omni Reference",
+      "resolution": "1080P",
+      "credits_per_second": 60,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "4K",
+      "credits_per_second": 121,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "Seedance 2.0",
+      "mode": "Omni Reference",
+      "resolution": "4K",
+      "credits_per_second": 121,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "MiniMax H3 Max",
+      "mode": "First/last frame",
+      "resolution": "480P",
+      "credits_per_second": 12,
+      "min_seconds": 5,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "MiniMax H3 Max",
+      "mode": "First/last frame",
+      "resolution": "768P",
+      "credits_per_second": 18,
+      "min_seconds": 5,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "MiniMax H3",
+      "mode": "First/last frame",
+      "resolution": "768P",
+      "credits_per_second": 20,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "MiniMax H3",
+      "mode": "Omni Reference",
+      "resolution": "768P",
+      "credits_per_second": 20,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "MiniMax H3",
+      "mode": "First/last frame",
+      "resolution": "2K",
+      "credits_per_second": 29,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    },
+    {
+      "model": "MiniMax H3",
+      "mode": "Omni Reference",
+      "resolution": "2K",
+      "credits_per_second": 29,
+      "min_seconds": 4,
+      "max_seconds": 15,
+      "step_seconds": 1
+    }
+  ]
+}

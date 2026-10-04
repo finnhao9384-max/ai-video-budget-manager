@@ -1,0 +1,5 @@
+Original fictional test prompt for this repository.
+
+A traveler misses the last ferry. At dawn, she finds a small cafe open by the harbor and shares breakfast with its owner. Plan a 20-second video in 16:9. No assets exist. Compare Low, Medium and High budgets. Do not generate media.
+
+This example has not yet been run in TapNow.

@@ -1,0 +1,83 @@
+{
+  "method": "Offline deterministic checks of selected creator-supplied transcript claims.",
+  "tier_totals": [
+    {
+      "id": "aura-low",
+      "calculated": 3564,
+      "reported": 3564,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "aura-medium",
+      "calculated": 12210,
+      "reported": 12210,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "aura-high",
+      "calculated": 35684,
+      "reported": 35684,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "commercial-low",
+      "calculated": 1647,
+      "reported": 1647,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "commercial-medium",
+      "calculated": 5295,
+      "reported": 5295,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "commercial-high",
+      "calculated": 11006,
+      "reported": 11006,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "frequency-low",
+      "calculated": 8091,
+      "reported": 8091,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "frequency-medium",
+      "calculated": 31475,
+      "reported": 31475,
+      "reported_number_found": true,
+      "pass": true
+    },
+    {
+      "id": "frequency-high",
+      "calculated": 128925,
+      "reported": 128925,
+      "reported_number_found": true,
+      "pass": true
+    }
+  ],
+  "tier_totals_passed": 9,
+  "tier_totals_scored": 9,
+  "aura_detail_reconciliation": {
+    "sum_of_listed_subtotals": 4066,
+    "reported_total": 4087,
+    "pass": false,
+    "finding": "One text-to-image entry is absent from the detail table."
+  },
+  "right_frequency_shot_aggregates": {
+    "shots": 30,
+    "edit_seconds": 189,
+    "generated_seconds": 200,
+    "five_second_minimum_seconds": 210
+  },
+  "limits": "Selected calculations only; no live Agent calls, independent billing verification or full semantic scoring."
+}

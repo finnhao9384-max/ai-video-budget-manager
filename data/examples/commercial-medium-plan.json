@@ -1,0 +1,101 @@
+{
+  "description": "Reconstruction of the supplied Commercial Medium plan; independent arithmetic input, not a new Agent output.",
+  "pricing_date": "2026-10-03",
+  "budget": 6000,
+  "images": [
+    {
+      "asset_id": "shared-designs",
+      "quantity": 4,
+      "model": "Banana pro",
+      "mode": "Text-to-image",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": false,
+      "attempts": 5
+    },
+    {
+      "asset_id": "shot-first-frames",
+      "quantity": 9,
+      "model": "Banana pro",
+      "mode": "Reference",
+      "resolution": "2K",
+      "detail": null,
+      "web_search": false,
+      "attempts": 5
+    }
+  ],
+  "videos": [
+    {
+      "task_id": "S01",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S02",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S03",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S04",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S05",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S06",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S07",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S08",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    },
+    {
+      "task_id": "S09",
+      "model": "Seedance 2.0",
+      "mode": "First/last frame",
+      "resolution": "720P",
+      "duration_seconds": 4,
+      "attempts": 5
+    }
+  ]
+}
