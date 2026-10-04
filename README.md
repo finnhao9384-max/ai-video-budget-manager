@@ -140,4 +140,4 @@ For another platform, replace prices, units, supported modes, duration limits, a
 
 ## License and Source Materials
 
-No open-source license has been selected for this project. This repository does not grant rights to third-party screenplay material or brands appearing in the examples.
+This project is licensed under the [MIT License](LICENSE). This repository does not grant rights to third-party screenplay material or brands appearing in the examples.
